@@ -1,0 +1,4 @@
+versoin 1.0 android/meterpreter/reverse_https and android/meterpreter/reverse_http and android/meterpreter/reverse_tcp
+version 2.0 outloak 
+versoin 3.0 android/browser/stagefright_mp4_tx3g_64bit and android/browser/webview_addjavascriptinterface
+versoin 4.0 ???????
